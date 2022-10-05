@@ -3,7 +3,7 @@
 
 # PURPOSE
 ---------------------
-- The purpose of this project was to create a dashboard that provided visualizations of belly button biodiversity from data that was contained in a json file. The dashboard is interactive and will update by volunteer number when selected in the margin on the left. We also used D3, javascript, plotly, html, abd css.
+- The purpose of this project was to create a dashboard that provided visualizations of belly button biodiversity from data that was contained in a json file. The dashboard is interactive and will update by volunteer number when selected in the margin on the left. We also used D3, javascript, plotly, html, css, and github pages.
 
 ---------------------
 # RESULTS
